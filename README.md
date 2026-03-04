@@ -146,7 +146,7 @@ Customer lifecycle, segmentation, and retention analysis.
 
 ## 🛠️ Technical Stack & Methodology
 
-### 🗄️ MySQL — Data Cleaning & Preparation
+### 🗄️ SQL — Data Cleaning & Preparation
 **Used for initial data cleaning:**
 - Removing duplicates and handling NULL values
 - Standardizing data formats (dates, text, numbers)
