@@ -260,17 +260,16 @@ RedGearCycles-Dashboard/
 │
 ├── 📂 data/
 │   ├── tables(9).csv     
-│   └── [other data files]
 │
 │── 📂 media/
 │    ├── video.mp4
 │
 └── 📂 screenshots/
-    ├── 00_home.png
-    ├── 01_overview.png
-    ├── 02_sales.png
-    ├── 03_inventory.png
-    └── 04_customer.png
+    ├── 01_home.png
+    ├── 02_overview.png
+    ├── 03_sales.png
+    ├── 04_inventory.png
+    └── 05_customer.png
 ```
 
 ### 🔒 Privacy Note
@@ -289,11 +288,11 @@ For a **live walkthrough** or collaboration, reach out via LinkedIn.
 
 | Page | Preview |
 |------|---------|
-| 🏠 home | ![home](screenshots/00_home.png) |
-| 🏠 Overview | ![Overview](screenshots/01_overview.png) |
-| 💰 Sales | ![Sales](screenshots/02_sales.png) |
-| 📦 Inventory | ![Inventory](screenshots/03_inventory.png) |
-| 👥 Customer | ![Customer](screenshots/04_customer.png) |
+| 🏠 home | ![home](screenshots/01_home.png) |
+| 🏠 Overview | ![Overview](screenshots/02_overview.png) |
+| 💰 Sales | ![Sales](screenshots/03_sales.png) |
+| 📦 Inventory | ![Inventory](screenshots/04_inventory.png) |
+| 👥 Customer | ![Customer](screenshots/05_customer.png) |
 
 ---
 
